@@ -1,12 +1,14 @@
+import React , {Fragment} from 'react';
+import NavBar from './Components/NavBar';
 
 
 
 function App() {
   return (
     <div>
-      <h1>
-        Hola Coder House
-      </h1>
+      <Fragment>
+        <NavBar />
+      </Fragment>
     </div>
   );
 }

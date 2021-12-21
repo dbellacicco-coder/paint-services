@@ -30,9 +30,14 @@ function App() {
       <NavBar
       titleWeb = {titleWeb}
        />
+
+       
       <ListaServicios
       servicios = {servicios}
        />
+
+
+
       <Footer
       titleWeb = {titleWeb}
        />

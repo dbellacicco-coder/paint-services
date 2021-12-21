@@ -4,7 +4,8 @@ import {
   Container,
   Nav,
 } from "react-bootstrap";
-import CartWidget from "./CartWidget";
+import ProductCounter from "./ProductCounter";
+
 
 const NavBar = ({ titleWeb }) => {
   return (
@@ -18,7 +19,8 @@ const NavBar = ({ titleWeb }) => {
             <Nav.Link href="#pricing">Contacto</Nav.Link>
           </Nav>
           <Nav>
-            <CartWidget />
+           <ProductCounter />
+          
             
           </Nav>
         </Navbar.Collapse>

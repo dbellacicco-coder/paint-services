@@ -1,11 +1,12 @@
 import React from 'react';
 
-const Servicio = ({servicios}) => {
+const Servicio = () => {
 
-    console.log(servicios)
+   
     return ( <div>
         <p> Nombre servicio : </p>
         <p> Precio: </p>
+        
     </div> );
 }
  

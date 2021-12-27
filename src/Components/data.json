@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "Tequeño",
+    "price": 12
+  },
+  {
+    "id": 2,
+    "name": "Pizza",
+    "price": 8
+  },
+  {
+    "id": 3,
+    "name": "Pan de Jamon",
+    "price": 13
+  },{
+    "id": 4,
+    "name": "Hallaca",
+    "price": 40
+  }
+  ,{
+    "id": 5,
+    "name": "Torta",
+    "price": 30
+  }
+  ,{
+    "id": 6,
+    "name": "Asado",
+    "price": 45
+  }
+]
